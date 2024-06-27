@@ -14,4 +14,4 @@ Welcome to  **LeetCode-Compete** , a sleek and minimalistic dashboard designed t
 
 ## Getting Started 🛠️
 
-* Visit the website at [leetcode-compete.vercel.app](leetcode-compete.vercel.app)
+* Visit the website at [leetcode-compete.vercel.app](https://leetcode-compete.vercel.app)
